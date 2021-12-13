@@ -1,0 +1,17 @@
+#container{
+    color:#e9a9a9;
+    text-align: left;
+    font-size:15px;
+    font-weight: bold;
+    padding:0 20px;
+}
+body{
+    background:#47262c;
+    margin-top:2%;
+    text-align: center;
+}
+#todo{
+    font-size: 25px;
+    color: #33305f;
+    background: #80cc41;
+}
