@@ -13,6 +13,7 @@ fetch('https://jsonplaceholder.typicode.com/todos')
             }
         }
     })
+//
 select.addEventListener('change', function () {
     var value1 = select.value;
     if (value1 === "Completed") {
